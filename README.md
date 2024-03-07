@@ -8,6 +8,6 @@ User-friendly interface powered by Streamlit for easy data input and instant rec
 Random Forest Classifier algorithm ensures accurate predictions.
 
 # Technologies Used
-Python
-Random Forest Classifier algorithm
+Python,
+Random Forest Classifier algorithm,
 Streamlit
